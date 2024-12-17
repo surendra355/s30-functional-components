@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: rgb(189, 143, 143);
+ 
+}
+
+.playerPic{
+  width: 250px;
+}
+.mainContainer{
+  border:  outset 10px;
+  background-color: rgb(190, 199, 191);
+  margin: 10px;
+  display: inline-block;
+  border-radius: 20px;
+}
+
